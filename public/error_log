@@ -1,0 +1,16 @@
+[06-Mar-2024 09:40:46 UTC] PHP Warning:  require(/home/dnprlwtsvh1q/public_html/arthbodh.ycstech.co/vendor/composer/../symfony/polyfill-php80/bootstrap.php): Failed to open stream: No such file or directory in /home/dnprlwtsvh1q/public_html/arthbodh.ycstech.co/vendor/composer/autoload_real.php on line 55
+[06-Mar-2024 09:40:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dnprlwtsvh1q/public_html/arthbodh.ycstech.co/vendor/composer/../symfony/polyfill-php80/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dnprlwtsvh1q/public_html/arthbodh.ycstech.co/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/dnprlwtsvh1q/public_html/arthbodh.ycstech.co/vendor/composer/autoload_real.php(38): composerRequire8050b0bc37f71da41f42708e3478a9c7()
+#1 /home/dnprlwtsvh1q/public_html/arthbodh.ycstech.co/vendor/autoload.php(25): ComposerAutoloaderInit8050b0bc37f71da41f42708e3478a9c7::getLoader()
+#2 /home/dnprlwtsvh1q/public_html/arthbodh.ycstech.co/public/index.php(34): require('/home/dnprlwtsv...')
+#3 {main}
+  thrown in /home/dnprlwtsvh1q/public_html/arthbodh.ycstech.co/vendor/composer/autoload_real.php on line 55
+[06-Mar-2024 09:40:46 UTC] PHP Warning:  require(/home/dnprlwtsvh1q/public_html/arthbodh.ycstech.co/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home/dnprlwtsvh1q/public_html/arthbodh.ycstech.co/vendor/composer/autoload_real.php on line 55
+[06-Mar-2024 09:40:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/dnprlwtsvh1q/public_html/arthbodh.ycstech.co/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dnprlwtsvh1q/public_html/arthbodh.ycstech.co/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/dnprlwtsvh1q/public_html/arthbodh.ycstech.co/vendor/composer/autoload_real.php(38): composerRequire8050b0bc37f71da41f42708e3478a9c7()
+#1 /home/dnprlwtsvh1q/public_html/arthbodh.ycstech.co/vendor/autoload.php(25): ComposerAutoloaderInit8050b0bc37f71da41f42708e3478a9c7::getLoader()
+#2 /home/dnprlwtsvh1q/public_html/arthbodh.ycstech.co/public/index.php(34): require('/home/dnprlwtsv...')
+#3 {main}
+  thrown in /home/dnprlwtsvh1q/public_html/arthbodh.ycstech.co/vendor/composer/autoload_real.php on line 55
